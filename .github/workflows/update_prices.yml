@@ -28,4 +28,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: nightly price refresh 🚀"
-          file_pattern: prime_prices.csv
+          file_pattern: prime_prices_clean.csv
