@@ -24,10 +24,10 @@ This repo:
 
 ## Quick start
 ```bash
-git clone https://github.com/<you>/Prime-Set-Price-Checker.git
+git clone https://github.com/sugarandqueries/Prime-Set-Price-Checker.git
 cd Prime-Set-Price-Checker
 pip install -r requirements.txt
-python prime_scraper.py      # generates the latest CSV locally
+python prime_scraper.py      # generates the latest CSV locally as prime_prices_clean.csv
 ```
 
 ---
