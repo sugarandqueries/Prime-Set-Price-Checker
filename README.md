@@ -14,6 +14,8 @@ This repo:
   
  > Perfect for traders, content creators, or anyone who just likes watching numbers go BRRRRR.
 
+---
+
 ## Preview 
 ![image](https://github.com/user-attachments/assets/1d9a1fab-90b1-4e9d-8abc-3bc2dbf27339)
 
@@ -38,3 +40,5 @@ Download PrimePricePulse.pbit, open in Power BI Desktop, hit Refresh and enjoy t
 
 ## License
 MIT
+### Disclaimer 
+>Large chunks of the scraping script and dashboard layout ideas were co-piloted with ChatGPT (OpenAI o3). I still tested, tweaked, and shipped everything myself, but I still think adding this disclaimer is necessary. Always practice safe AI usage!
