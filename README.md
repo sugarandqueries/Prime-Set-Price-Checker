@@ -1,6 +1,6 @@
 # Prime Set Price Checker 
 
-**Stonks for your wishlist Primes in one click.**
+**Stonks for your wishlisted Primes in one click.**
 
 This repo:
 
@@ -14,6 +14,11 @@ This repo:
   
  > Perfect for traders, content creators, or anyone who just likes watching numbers go BRRRRR.
 
+## Preview 
+![image](https://github.com/user-attachments/assets/1d9a1fab-90b1-4e9d-8abc-3bc2dbf27339)
+
+---
+
 
 ## Quick start
 ```bash
@@ -23,8 +28,13 @@ pip install -r requirements.txt
 python prime_scraper.py      # generates the latest CSV locally
 ```
 
+---
+
+
 ## Dashboard
 Download PrimePricePulse.pbit, open in Power BI Desktop, hit Refresh and enjoy the stonks.
+
+---
 
 ## License
 MIT
