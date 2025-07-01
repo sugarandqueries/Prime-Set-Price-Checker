@@ -17,6 +17,7 @@ prime_sets = [
     "saryn_prime_set",
     "mesa_prime_set",
     "octavia_prime_set",
+    "loki_prime_set",
 ]
 
 # --- 1. grab the data -----------------------------------------
