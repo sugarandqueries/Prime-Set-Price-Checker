@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# prime set price checker
+# Prime Set Price Checker
 
 *Live Warframe Prime-set market tracker. Refreshes nightly via GitHub Actions. Stonks go BRRRRR*
 
