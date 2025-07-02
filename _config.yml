@@ -1,4 +1,5 @@
 title: Prime Set Price Checker
 theme: jekyll-theme-slate
 markdown: kramdown
-
+readme_index:
+  enabled: false
