@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-# Prime Set Price Checker 📊
+
+
+## Your Dashboard, Tenno 📈💰
+
 
 <iframe
   width="100%" height="720"
@@ -9,3 +12,8 @@ layout: default
   frameborder="0" allowfullscreen>
 </iframe>
 
+---
+
+[Warframe.Market](https://warframe.market/)
+
+[Back to Repo](https://github.com/sugarandqueries/Prime-Set-Price-Checker)
