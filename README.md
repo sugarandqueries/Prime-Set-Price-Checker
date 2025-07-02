@@ -17,7 +17,8 @@ This repo:
 ---
 
 ## Preview 
-![image](https://github.com/user-attachments/assets/1d9a1fab-90b1-4e9d-8abc-3bc2dbf27339)
+![image](https://github.com/user-attachments/assets/36a6565c-e597-4764-9c87-4ae69c076d6d)
+
 
 ---
 
