@@ -1,4 +1,4 @@
-# Prime Set Price Checker 
+# (Prime Set Price Checker)[https://sugarandqueries.github.io/Prime-Set-Price-Checker/] 
 
 **Stonks for your wishlisted Primes in one click.**
 
@@ -13,12 +13,6 @@ This repo:
    * auto-generated market narrative
   
  > Perfect for traders, content creators, or anyone who just likes watching numbers go BRRRRR.
-
----
-
-## Preview 
-![image](https://github.com/user-attachments/assets/36a6565c-e597-4764-9c87-4ae69c076d6d)
-
 
 ---
 
