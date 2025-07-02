@@ -1,4 +1,4 @@
-# (Prime Set Price Checker)[https://sugarandqueries.github.io/Prime-Set-Price-Checker/] 
+# Prime Set Price Checker
 
 **Stonks for your wishlisted Primes in one click.**
 
@@ -15,7 +15,9 @@ This repo:
  > Perfect for traders, content creators, or anyone who just likes watching numbers go BRRRRR.
 
 ---
-
+## Live Preview
+* My attempt at deploying a website using Jekyll. It's very basic and unoptimized as I'm still a beginner but its functional!
+* [Link Here](https://sugarandqueries.github.io/Prime-Set-Price-Checker/)
 
 ## Quick start
 ```bash
