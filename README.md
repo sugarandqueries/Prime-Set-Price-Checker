@@ -16,12 +16,9 @@ This repo:
 
 ---
 
-## Preview 
-![image](https://github.com/user-attachments/assets/36a6565c-e597-4764-9c87-4ae69c076d6d)
-
-
----
-
+## Live Preview
+* My attempt at deploying a website using Jekyll. It's very basic and unoptimized as I'm still a beginner but its functional!
+* [Link Here](https://sugarandqueries.github.io/Prime-Set-Price-Checker/)
 
 ## Quick start
 ```bash
