@@ -2,9 +2,8 @@
 layout: default
 ---
 
-# Prime Price Pulse 💹
 
-*Live Warframe Prime-set market tracker. Refreshes nightly via GitHub Actions.*
+*Live Warframe Prime-set market tracker. Refreshes nightly via GitHub Actions. Stonks go BRRRRR*
 
 <iframe
   width="100%" height="720"
@@ -12,4 +11,4 @@ layout: default
   frameborder="0" allowfullscreen>
 </iframe>
 
-[Back to repo](../)
+[Back to repo]([https://github.com/sugarandqueries/Prime-Set-Price-Checker])
