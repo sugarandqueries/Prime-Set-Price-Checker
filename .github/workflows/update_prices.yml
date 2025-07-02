@@ -1,0 +1,31 @@
+name: Nightly price update
+
+on:
+  schedule:
+    # runs at 08:00 UTC every day (3 AM Chicago when CDT, 2 AM when CST)
+    - cron:  '0 8 * * *'
+  workflow_dispatch:      # lets you click Run workflow manually
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install libraries
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python prime_scraper.py
+
+      - name: Commit updated CSV
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: nightly price refresh 🚀"
+          file_pattern: prime_prices_clean.csv
