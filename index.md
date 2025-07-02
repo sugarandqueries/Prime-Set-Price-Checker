@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Prime Set Price Checker
+# Prime Set Price Checker 📊
 
 <iframe
   width="100%" height="720"
@@ -9,4 +9,3 @@ layout: default
   frameborder="0" allowfullscreen>
 </iframe>
 
-[Back to repo]([https://github.com/sugarandqueries/Prime-Set-Price-Checker])
