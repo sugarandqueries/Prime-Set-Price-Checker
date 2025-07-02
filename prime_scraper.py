@@ -13,10 +13,10 @@ import time
 # --- 0. setup -------------------------------------------------    
 prime_sets = [
     # S-tier & A-tier Primes from Overframe
-    "wisp_prime_set", "saryn_prime_set", "dante_prime_set",
+    "wisp_prime_set", "saryn_prime_set",
     "octavia_prime_set", "mesa_prime_set", "revenant_prime_set",
     "khora_prime_set", "gauss_prime_set", "volt_prime_set",
-    "protean_prime_set", "mirage_prime_set", "nova_prime_set",
+    "protea_prime_set", "mirage_prime_set", "nova_prime_set",
     "xaku_prime_set", "wukong_prime_set", "nidus_prime_set",
     "baruuk_prime_set", "rhino_prime_set", "harrow_prime_set",
     "gara_prime_set", "nezha_prime_set", "titania_prime_set",
