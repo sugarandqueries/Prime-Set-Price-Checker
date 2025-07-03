@@ -23,7 +23,11 @@ prime_sets = [
     "nekros_prime_set", "sevagoth_prime_set", "mag_prime_set",
     "trinity_prime_set", "garuda_prime_set", "ember_prime_set",
     "hildryn_prime_set", "lavos_prime_set", "ivara_prime_set",
-    "vauban_prime_set",
+    "vauban_prime_set", "ash_prime_set", "zephyr_prime_set",
+    "chroma_prime_set", "frost_prime_set", "valkyr_prime_set",
+    "oberon_prime_set", "limbo_prime_set", "inaros_prime_set",
+    "hydroid_prime_set", "grendel_prime_set", "banshee_prime_set",
+    "atlas_prime_set", "yareli_prime_set", "nyx_prime_set",
 ]
 
 # --- 1. grab the data -----------------------------------------
