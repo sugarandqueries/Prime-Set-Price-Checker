@@ -1,5 +1,8 @@
 name: Nightly price update
 
+permissions:
+  contents: write # allows the workflow to commit changes to the repository
+
 on:
   schedule:
     # runs at 08:00 UTC every day (3 AM Chicago when CDT, 2 AM when CST)
