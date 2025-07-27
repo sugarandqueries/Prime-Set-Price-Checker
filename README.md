@@ -31,7 +31,7 @@ python prime_scraper.py      # generates the latest CSV locally as prime_prices_
 
 
 ## Dashboard
-Download PrimePricePulse.pbit, open in Power BI Desktop, hit Refresh and enjoy the stonks.
+Download PrimePriceChecker.pbit, open in Power BI Desktop, hit Refresh and enjoy the stonks.
 
 ---
 
