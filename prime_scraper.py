@@ -80,11 +80,11 @@ clean = (
 )
 
 # remove duplicates in case of API errors
-raw.sort_values(["item", "datetime"], inplace=True)
-clean = raw.drop_duplicates(subset=["item", "datetime"]) 
+clean.sort_values(["item", "datetime"], inplace=True)
+clean = clean.drop_duplicates(subset=["item", "datetime"])
 
 # remove rows with no volume data
-raw = raw.dropna(subset=["volume"])
+clean = clean.dropna(subset=["volume"])
 
 
 # split datetime for easier grouping
