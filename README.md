@@ -18,6 +18,11 @@ This repo:
 ## Live Preview
 * My attempt at deploying a website using Jekyll. It’s very basic and unoptimized as I’m still a beginner but it’s functional!
 * [Link Here](https://sugarandqueries.github.io/Prime-Set-Price-Checker/)
+  
+**UPDATE**
+  - The site is no longer functional since my PowerBI trial expired, sorry :(
+  - You'll have to download the .pbix or .pbit and view the dashboard locally
+ 
 
 ## Quick start
 ```bash
