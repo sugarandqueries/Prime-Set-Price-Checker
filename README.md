@@ -42,5 +42,4 @@ Download PrimePriceChecker.pbit, open in Power BI Desktop, hit Refresh and enjoy
 
 ## License
 MIT
-### Disclaimer 
->Large chunks of the scraping script and dashboard layout ideas were co-piloted with ChatGPT (OpenAI o3). I still tested, tweaked, and shipped everything myself, but I still think adding this disclaimer is necessary. Always practice safe AI usage!
+
